@@ -1,5 +1,7 @@
 ## Next Release
 
+* Support Rails 8.2
+
 ## 8.1.0 (10/23/2025)
 
 * Make `get_relation` private
